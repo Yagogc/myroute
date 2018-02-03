@@ -21,8 +21,8 @@ injectGlobal`
 		margin: 0;
 		padding: 0;
 		font-family: sans-serif;
-		background: linear-gradient(270deg, #8e0fdc, #663399);
+		background: linear-gradient(-45deg, #23D5AB, #663399, #663399);
 		background-size: 400% 400%;
-		animation: ${animation} 30s ease infinite;
+		animation: ${animation} 15s ease infinite;
 	}
 `
